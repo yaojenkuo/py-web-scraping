@@ -20,4 +20,5 @@
 
 ### 教科書
 
-[進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
+- [輕鬆學習 Python](https://www.datainpoint.com/python-essentials/)
+- [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
