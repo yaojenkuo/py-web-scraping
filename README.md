@@ -18,6 +18,10 @@
 - [靜態網頁擷取](https://yaojenkuo.github.io/python_4_ds/static_scraper.slides.html)
 - [動態網頁擷取](https://yaojenkuo.github.io/python_4_ds/dynamic_scraper.slides.html)
 
+### 上課錄影
+
+[播放清單](https://www.youtube.com/playlist?list=PLEq7iw5uOtuWuQyBajk8FFAp2VIBJOwQj)
+
 ### 教科書
 
 - [輕鬆學習 Python](https://www.datainpoint.com/python-essentials/)
